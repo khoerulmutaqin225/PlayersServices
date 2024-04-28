@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|c:\\users\\barokah\\downloads\\net-employeeapiwithswagger-main\\.net-employeeapiwithswagger-main\\employeeservice\\data\\playersservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|solutionrelative:employeeservice\\data\\playersservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|c:\\users\\barokah\\downloads\\net-employeeapiwithswagger-main\\.net-employeeapiwithswagger-main\\employeeservice\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|solutionrelative:employeeservice\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|c:\\users\\barokah\\downloads\\net-employeeapiwithswagger-main\\.net-employeeapiwithswagger-main\\employeeservice\\models\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|solutionrelative:employeeservice\\models\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|c:\\users\\barokah\\downloads\\net-employeeapiwithswagger-main\\.net-employeeapiwithswagger-main\\employeeservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|solutionrelative:employeeservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|c:\\users\\barokah\\downloads\\net-employeeapiwithswagger-main\\.net-employeeapiwithswagger-main\\employeeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|solutionrelative:employeeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|c:\\users\\barokah\\downloads\\net-employeeapiwithswagger-main\\.net-employeeapiwithswagger-main\\employeeservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|solutionrelative:employeeservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|c:\\users\\barokah\\downloads\\net-employeeapiwithswagger-main\\.net-employeeapiwithswagger-main\\employeeservice\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|solutionrelative:employeeservice\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|c:\\users\\barokah\\downloads\\net-employeeapiwithswagger-main\\.net-employeeapiwithswagger-main\\employeeservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|solutionrelative:employeeservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|c:\\users\\barokah\\downloads\\net-employeeapiwithswagger-main\\.net-employeeapiwithswagger-main\\employeeservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD0710AE-473F-44C9-BEA1-1AE3116E9C38}|EmployeeService\\PlayersService.csproj|solutionrelative:employeeservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Controllers\\PlayersController.cs",
+              "ToolTip": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "EmployeeService\\Controllers\\PlayersController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwFIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:21:53.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Players.cs",
+              "DocumentMoniker": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\Models\\Players.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Models\\Players.cs",
+              "ToolTip": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\Models\\Players.cs",
+              "RelativeToolTip": "EmployeeService\\Models\\Players.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:21:53.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayersServiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\Data\\PlayersServiceContext.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Data\\PlayersServiceContext.cs",
+              "ToolTip": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\Data\\PlayersServiceContext.cs",
+              "RelativeToolTip": "EmployeeService\\Data\\PlayersServiceContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:21:53.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EmployeeService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:24:37.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Program.cs",
+              "ToolTip": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\Program.cs",
+              "RelativeToolTip": "EmployeeService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:21:53.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\appsettings.json",
+              "RelativeToolTip": "EmployeeService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T08:21:53.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "EmployeeService\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "EmployeeService\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T08:26:51.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\WeatherForecast.cs",
+              "RelativeToolTip": "EmployeeService\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:31:07.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Barokah\\Downloads\\Net-EmployeeAPIWithSwagger-main\\.Net-EmployeeAPIWithSwagger-main\\EmployeeService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T08:26:47.702Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
